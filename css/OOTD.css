@@ -1,0 +1,210 @@
+body {
+	background: url("../images/zy.jpg");
+	font-family: oblique;
+	text-align: center;
+}
+.menu  {
+    overflow: hidden;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	border-bottom: .5px #000 solid;
+	background: #3D355D;
+
+}
+.menu a {
+    float: left;
+    color: beige;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.menu a:hover {
+    color: wheat;
+}
+.haheha {
+	background: url("../images/plate.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 100px;
+	text-align: center;
+	color:black;
+}
+
+.hehahe { 
+	margin-left: 20px
+}	
+.haheha h1{
+	font-size: 40px;
+	font-family:oblique;
+}
+.haheha p{
+	font-size: 40px;
+}
+.
+.top {
+	font-size: 150px;
+	text-align: center;
+	background: #3D355D;
+	color:beige;
+	font-family:Brush Script MT;
+}
+.top p{
+	font-size:60px;
+	font-family:Brush Script MT;
+}
+
+.hello {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr;
+	color:beige;
+	background: #3D355D;
+}
+.lala {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.kaka {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.jaja {
+	display: grid;
+	grid-template-columns: 1fr 1fr;	
+}
+.fave {
+	font-size: 30px;
+	text-align: center;
+}
+.favo {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	background: #3D355D;
+	color:beige;
+}
+.favo h4{
+	color:beige;
+}
+
+
+.aaaa {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+
+}
+.eeee {
+	margin-top: 0px;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+
+}
+.oooo {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 3px;
+}
+.uuuu {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 3px;
+}
+.bloom p{
+	font-size: 30px;
+	text-align: center;
+}
+.run {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr 1fr
+}
+
+.takbo {
+	background: url(../images/zy.jpeg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 300px;
+	color: black;
+}
+.bloom {
+		color: beige;
+}
+.ffff {
+	margin-top: 40px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.cccc {
+	margin-top: 40px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.run{
+	background:#3D355D;
+}
+.rrrr {
+	margin-top: 20px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.mmmm {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.paa {
+	border-top: .5px #000 solid;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 1.7;
+}
+.fa-facebook {
+    background: #3D355D;
+    color: beige;
+}
+.fa-twitter {
+    background: #3D355D;
+    color: beige;
+}
+.fa-youtube {
+    background: #3D355D;
+    color: beige;
+}
+.fa-instagram {
+    background: #3D355D
+    color: beige;
+}
+.paa2 {
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.last {
+	background:#3D355D;
+	padding: 5px;
+	color:beige;
+}
+.last a{
+	color: beige;
+	text-decoration: none;
+}
+.last a:hover {
+	color: gray;
+}
